@@ -3,7 +3,7 @@
 # DataScience_US_BikeShare 
 # Udacity Nanodegree -Data Science -US-bikeshare(python)
 
-
+# date created: Sep 21, 2019
 # Project Overview:
 
 Over the past decade, bicycle-sharing systems has become a hit. Many people are using bike sharing system to rent bikes for short term basis for leisure or health. Through this project, I will be using the data provided by Motivate, a bike share system provider to uncover bike share usage patterns for three major cities across United States: Chicago, New York City, and Washington, DC.
