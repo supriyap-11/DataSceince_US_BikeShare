@@ -39,10 +39,16 @@ The following statistical analysis have been done using the datasets(.csv files)
 References:
 
 *https://stackoverflow.com/questions/17071871/select-rows-from-a-dataframe-based-on-values-in-a-column-in-pandas
+
 *https://stackoverflow.com/questions/16476924/how-to-iterate-over-rows-in-a-dataframe-in-pandas
+
 *https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html
+
 *https://stackoverflow.com/questions/10665889/how-to-take-column-slices-of-dataframe-in-pandas
+
 *https://classroom.udacity.com/nanodegrees/nd104/parts/53470233-d93c-4a31-a59f-11388272fe6b/modules/0f8a717f-4ac2-49d7-9ac4-15ae692793fa/lessons/ee7d089a-4a92-4e5d-96d2-bb256fae28e9/concepts/87034580-6b86-4f45-9981-88f5c86d21bf
+
 *https://classroom.udacity.com/nanodegrees/nd104/parts/53470233-d93c-4a31-a59f-11388272fe6b/modules/0f8a717f-4ac2-49d7-9ac4-15ae692793fa/lessons/ee7d089a-4a92-4e5d-96d2-bb256fae28e9/concepts/880df209-4c85-4151-89c9-02ea6664936f
+
 *https://classroom.udacity.com/nanodegrees/nd104/parts/53470233-d93c-4a31-a59f-11388272fe6b/modules/0f8a717f-4ac2-49d7-9ac4-15ae692793fa/lessons/ee7d089a-4a92-4e5d-96d2-bb256fae28e9/concepts/5e694975-2bbe-4a06-9750-ec242df6f33d
 
