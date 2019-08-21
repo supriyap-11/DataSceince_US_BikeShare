@@ -20,7 +20,7 @@ def get_filters():
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
     """
     print("="*40)
-    print('\nHello! Let\'s explore some US bikeshare data!')
+    print('\nHello! Let\'s explore some US bikeshare data!!')
     start_graphic = '''
  o__       __o       __o       __o       __o
  ,>/_     _\<,      _\<,      -\<,      _\<_
